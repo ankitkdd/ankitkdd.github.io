@@ -1,0 +1,86 @@
+.h1, h1 {
+  font-size: large;
+  font-family: sans-serif;
+  padding-top: 10px;
+  padding-left: 10px;
+}
+
+.h2, h2 {
+  font-size: medium;
+  font-family: serif;
+  font-style: italic;
+  color: grey;
+  padding-left: 10px;
+}
+
+div {
+  margin: auto;
+  width: 95%;
+}
+
+@media (min-width: 1200px) {
+  div {
+    margin: auto;
+    width: 80%;
+  }
+}
+
+p {
+  font-family: serif;
+  font-size: medium;
+  padding-top: 3%;
+}
+
+@media (min-width: 1200px) {
+  p {
+    font-family: serif;
+    font-size: medium;
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-top: 3%;
+  }
+}
+
+#green {
+  height: 15px;
+  width: 100%;
+}
+
+.img-fluid {
+  padding-top: 3%;
+  padding-right: 3%;
+  padding-left: 3%;
+  height: 100%;
+  width: 100%;
+  padding-bottom: 3%;
+}
+
+@media (min-width: 992px) {
+  .img-fluid {
+    padding-top: 3%;
+    padding-right: 3%;
+    padding-left: 3%;
+    height: 90%;
+    width: 90%;
+    padding-bottom: 3%;
+  }
+}
+
+#abc {
+  color: grey;
+  font-size: medium;
+  padding-top: 4%;
+}
+
+@media (min-width: 1200px) {
+  #abc {
+    color: grey;
+    font-size: large;
+    padding-top: 4%;
+  }
+}
+
+.h6, h6 {
+  padding-bottom: 3%;
+}
+
