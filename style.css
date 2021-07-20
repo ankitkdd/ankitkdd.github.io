@@ -18,6 +18,34 @@
 	font-weight: 450;
   } 
 
+
+  #imageCircle{
+	align-self: center;
+	border-radius: 50%;
+	width: 80%;
+	height: 80%;
+    background-image: url(images/image1.png) ;
+	background-color: white;
+	background-size: cover;
+	margin: auto;
+
+}
+
+.hii{
+
+	font-size: 4vw;
+	font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+	text-align: center;
+	margin: 0;
+    display: flex;
+	align-items: center;
+	margin: auto;
+	
+
+}
+
+	
+
 .about{
 	text-align: center;
 	margin-top: 10vw;
@@ -47,32 +75,6 @@
 }
 
 
-#imageCircle{
-	align-self: center;
-	border-radius: 50%;
-	width: 80%;
-	height: 80%;
-    background-image: url(images/image1.png) ;
-	background-color: white;
-	background-size: cover;
-	margin: auto;
-
-}
-
-.hii{
-
-	font-size: 4vw;
-	font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-	text-align: center;
-	margin: 0;
-    display: flex;
-	align-items: center;
-	margin: auto;
-	
-
-}
-
-	
 
 
 .body {
