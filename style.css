@@ -11,6 +11,18 @@
 	
 }
 
+#menuit{
+	display: inline;
+	font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+	font-size: 3vw;
+	font-weight: 450;
+  } 
+
+.about{
+	text-align: center;
+	margin-top: 10vw;
+}
+
 .leftmob{
 	
 
@@ -60,17 +72,7 @@
 }
 
 	
-#menuit{
-	display: inline;
-	font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-	font-size: 3vw;
-	font-weight: 450;
-  } 
 
-.about{
-	text-align: center;
-	margin-top: 10vw;
-}
 
 .body {
 	width: 100%;
