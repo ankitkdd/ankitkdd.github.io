@@ -14,7 +14,9 @@
 .projects{
 	display: grid;
 	grid-template-columns: 50% 50%;
-	height: 50vw;
+	height: 30vw;
+	width: 60vw;
+	margin: auto;
 	
 }
 
@@ -64,20 +66,20 @@
 }
 
 .rightpro{
-	padding-right: 40%;
-	padding-top: 40%;
-	padding-bottom:7%;
-	padding-left: 7%;
+	padding-right: 10%;
+	padding-top: 10%;
+	padding-bottom:10%;
+	padding-left: 10%;
     justify-content: center;
     align-items: center;
     display: flex;
 } 
 
 .leftpro{
-	padding-left: 40%;
-	padding-right: 7%;
-	padding-bottom: 7%;
-	padding-top: 40%;
+	padding-left: 10%;
+	padding-right: 10%;
+	padding-bottom: 10%;
+	padding-top: 10%;
 	justify-content: center;
     align-items: center;
     display: flex;
@@ -89,6 +91,7 @@
 .about{
 	text-align: center;
 	margin-top: 10vw;
+	margin-bottom: 10vw;
 }
 
 .leftmob{
