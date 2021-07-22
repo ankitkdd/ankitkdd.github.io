@@ -14,11 +14,12 @@
 .projects{
 	display: grid;
 	grid-template-columns: 50% 50%;
-	height: 30vw;
+	height: 35vw;
 	width: 60vw;
 	margin-top: 5vw;
 	margin-left: auto;
 	margin-right: auto;
+	column-gap: 5vw;
 	
 	
 }
@@ -81,20 +82,14 @@
 }
 
 .rightpro{
-	padding-right: 5%;
-	padding-top: 20%;
-	padding-bottom:5%;
-	padding-left: 20%;
+	padding: 5%;
     justify-content: center;
     align-items: center;
     display: flex;
 } 
 
 .leftpro{
-	padding-left: 5%;
-	padding-right: 20%;
-	padding-bottom:5%;
-	padding-top: 20%;
+	padding: 5%;
 	justify-content: center;
     align-items: center;
     display: flex;
