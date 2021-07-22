@@ -51,6 +51,15 @@
 
 }
 
+.rightpro{
+	margin: 5px;
+	padding-right: 30%;
+	padding-top: 30%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+} 
+
 	
 
 .about{
@@ -89,15 +98,6 @@
 	
 }
 
-.rightpro{
-	margin: 5px;
-	padding-right: 30%;
-	padding-top: 30%;
-    justify-content: center;
-    align-items: center;
-    display: flex;
-    
-	
 }
 
 
@@ -107,7 +107,6 @@
 	width: 100%;
 }
 
-}
 
 
   
