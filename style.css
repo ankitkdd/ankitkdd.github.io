@@ -14,14 +14,17 @@
 .projects{
 	display: grid;
 	grid-template-columns: 50% 50%;
-	height: 35vw;
-	width: 60vw;
+	height: 26vw;
+	width: 52vw;
 	margin-top: 5vw;
-	margin-left: auto;
-	margin-right: auto;
-	column-gap: 5vw;
+	margin-left: 19vw;
+	column-gap: 10vw;
+}
 	
-	
+
+
+#ttext{
+	display: block;
 }
 
 #neche{
@@ -37,8 +40,8 @@
 
 #textneche{
 	height: auto;
-	width: 60vw;
-	margin: auto;
+	width: 52vw;
+	margin-left: 19vw;
 }
 
 #imageCircle{
