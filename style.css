@@ -16,7 +16,9 @@
 	grid-template-columns: 50% 50%;
 	height: 30vw;
 	width: 60vw;
+	margin-top: 5vw;
 	margin: auto;
+	
 	
 }
 
@@ -101,8 +103,8 @@
 
 .about{
 	text-align: center;
-	margin-top: 10vw;
-	margin-bottom: 10vw;
+	margin-top: 5vw;
+	margin-bottom: 5vw;
 }
 
 .leftmob{
