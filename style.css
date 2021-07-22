@@ -14,11 +14,13 @@
 .projects{
 	display: grid;
 	grid-template-columns: 50% 50%;
-	height: 26vw;
-	width: 52vw;
+	height: 30vw;
+	width: 60vw;
 	margin-top: 5vw;
-	margin-left: 19vw;
-	column-gap: 10vw;
+	margin-left: auto;
+	margin-right: auto;
+	column-gap: 0vw;
+
 }
 	
 
@@ -28,7 +30,7 @@
 }
 
 #neche{
-	padding: 1%;
+	padding-top: 2%;
   }
 
 #menuit{
@@ -40,9 +42,8 @@
 
 #textneche{
 	height: auto;
-	width: 52vw;
-	margin-left: 19vw;
-	margin-top: auto;
+	width: 60vw;
+	margin: auto;
 }
 
 #imageCircle{
@@ -87,6 +88,8 @@
 
 .rightpro{
 	padding: 5%;
+	padding-left: 30%;
+	padding-top: 30%;
     justify-content: center;
     align-items: center;
     display: flex;
@@ -94,6 +97,8 @@
 
 .leftpro{
 	padding: 5%;
+	padding-right: 30%;
+	padding-top: 30%;
 	justify-content: center;
     align-items: center;
     display: flex;
