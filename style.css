@@ -27,6 +27,11 @@
 	font-weight: 450;
   } 
 
+#textneche
+{
+	height: auto;
+	width: 60vw;
+}
 
   #imageCircle{
 	align-self: center;
@@ -51,6 +56,12 @@
 	margin: auto;
 
 }
+
+#neche{
+  padding: 1%;
+}
+
+
 
 .hii{
 
