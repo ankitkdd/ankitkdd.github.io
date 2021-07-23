@@ -31,9 +31,28 @@ div {
 
 @media (min-width: 1200px) {
   div {
-    width: 70%;
+    width: 65%;
     margin: auto;
   }
+}
+
+.ctop{
+  width: 30%;
+  display: inline-block;
+  background-color: red;
+ 
+}
+
+.clickmenu{
+
+  width: 30%;
+  background-color: red;
+  float: right;
+}
+
+.const{
+  width: 95%;
+  margin-top: 8%;
 }
 
 #small {
@@ -61,18 +80,23 @@ iframe {
 }
 
 .text-center {
-  padding-top: 5%;
+  margin-top: 10%;
   font-size: small;
   font-family: serif;
   color: grey;
+  clear: both;
 }
 
 @media (min-width: 1200px) {
   .text-center {
-    padding-top: 5%;
+    margin-top: 10%;
     font-size: large;
     font-family: serif;
     color: grey;
+  }
+
+  .const{
+    width: 65%;
   }
 }
 
