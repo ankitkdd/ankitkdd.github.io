@@ -37,17 +37,22 @@ div {
 }
 
 .ctop{
-  width: 30%;
+  width: 70%;
   display: inline-block;
-  background-color: red;
+
  
 }
 
-.clickmenu{
+.hee{
+  font-size: 1.5vw;
+  color: #FF6363;
+  
+}
 
-  width: 30%;
-  background-color: red;
-  float: right;
+.he{
+  font-size: 2vw;
+  color: #FF6363;
+  font-weight: bold;
 }
 
 .const{
@@ -80,18 +85,18 @@ iframe {
 }
 
 .text-center {
-  margin-top: 10%;
+  margin-top: 5%;
   font-size: small;
-  font-family: serif;
+  font-family: sans-serif;
   color: grey;
   clear: both;
 }
 
 @media (min-width: 1200px) {
   .text-center {
-    margin-top: 10%;
+    margin-top: 5%;
     font-size: large;
-    font-family: serif;
+    font-family: sans-serif;
     color: grey;
   }
 
