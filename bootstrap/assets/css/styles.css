@@ -13,7 +13,7 @@ img {
 }
 
 .hee{
-  font-size: 1.5vw;
+  font-size: 3vw;
   color: #FF6363;
   
 }
@@ -28,7 +28,22 @@ img {
     font-size: medium;
     font-weight: 100;
   }
+
+  .hee{
+    font-size: 1.5vw;
+    color: #FF6363;
+    
+  }
+
+  .he{
+    font-size: 2vw;
+    color: #FF6363;
+    font-weight: bold;
+  }
+
+
 }
+
 
 div {
   width: 95%;
@@ -52,7 +67,7 @@ div {
 
 
 .he{
-  font-size: 2vw;
+  font-size: 4vw;
   color: #FF6363;
   font-weight: bold;
 }
@@ -110,6 +125,10 @@ iframe {
 #small1 {
   width: 80%;
   padding-bottom: 5%;
+}
+
+p{
+   margin: 0%;
 }
 
 .h4, h4 {
