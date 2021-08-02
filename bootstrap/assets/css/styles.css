@@ -12,6 +12,12 @@ img {
   font-weight: 100;
 }
 
+.hee{
+  font-size: 1.5vw;
+  color: #FF6363;
+  
+}
+
 @media (min-width: 1200px) {
   .h5, h5 {
     text-align: center;
@@ -43,11 +49,7 @@ div {
  
 }
 
-.hee{
-  font-size: 1.5vw;
-  color: #FF6363;
-  
-}
+
 
 .he{
   font-size: 2vw;
