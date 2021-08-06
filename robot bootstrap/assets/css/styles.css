@@ -191,3 +191,71 @@
   width: 100%;
 }
 
+
+
+
+
+
+.hee{
+  font-size: 2.5vw;
+  color: #FF6363;
+  
+}
+
+
+.he{
+  font-size: 4vw;
+  color: #FF6363;
+}
+
+
+.ctop{
+  width: 70%;
+  display: inline-block;
+
+ 
+}
+
+.const{
+  width: 95%;
+  margin-top: 8%;
+}
+
+
+
+
+
+
+@media (min-width: 1200px) {
+
+  .hee{
+    font-size: 1.5vw;
+    color: #FF6363;
+    
+  }
+
+  .he{
+    font-size: 2vw;
+    color: #FF6363;
+   
+  }
+
+  .const{
+    width: 65%;
+    margin: auto;
+  }
+
+  .ctop{
+    margin: auto;
+  }
+
+
+}
+
+
+
+
+
+
+
+

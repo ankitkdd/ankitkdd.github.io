@@ -12,11 +12,21 @@ img {
   font-weight: 100;
 }
 
+
 .hee{
-  font-size: 3vw;
+  font-size: 2.5vw;
   color: #FF6363;
   
 }
+
+
+.he{
+  font-size: 4vw;
+  color: #FF6363;
+}
+
+
+
 
 @media (min-width: 1200px) {
   .h5, h5 {
@@ -38,7 +48,7 @@ img {
   .he{
     font-size: 2vw;
     color: #FF6363;
-    font-weight: bold;
+   
   }
 
 
@@ -66,11 +76,6 @@ div {
 
 
 
-.he{
-  font-size: 4vw;
-  color: #FF6363;
-  font-weight: bold;
-}
 
 .const{
   width: 95%;
