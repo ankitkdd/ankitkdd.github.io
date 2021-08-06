@@ -56,6 +56,15 @@ body{
   
   
   
+
+.mainbody{
+    width: 90%;
+    margin: auto;
+}
+
+img{
+    width: 100%;
+}
   
   
   
@@ -94,7 +103,11 @@ body{
     .text-center{
       font-size: 1.2vw;
     }
+
+    .mainbody{
+        width: 65%;
+        margin: auto;
+    }
   
   
   }
-  
