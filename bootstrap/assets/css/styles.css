@@ -9,6 +9,11 @@ img {
   
 }
 
+a {
+  color: inherit;
+  }
+
+
 
 .he{
   font-size: 4vw;
@@ -159,8 +164,4 @@ p{
   }
 }
 
-
-a {
-  color: inherit;
-  }
 

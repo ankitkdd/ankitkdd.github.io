@@ -237,6 +237,14 @@ a {
   color: inherit;
   }
 
+  .text-center {
+    margin-top: 5%;
+    font-size: 1.2vw;
+    font-family: sans-serif;
+    color: grey;
+    clear: both;
+  }
+
 
 
 
