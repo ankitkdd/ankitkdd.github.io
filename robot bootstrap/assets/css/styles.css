@@ -219,12 +219,23 @@
 }
 
 .const{
-  width: 95%;
+  width: 90%;
   margin-top: 8%;
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 5%;
 }
+
+.yoo{
+  font-size: 2vw;
+  width: 90%;
+  margin: auto;
+  color: grey;
+}
+
+a {
+  color: inherit;
+  }
 
 
 
@@ -234,27 +245,32 @@
 @media (min-width: 1200px) {
 
   .hee{
-    font-size: 1.5vw;
+    font-size: 1.3vw;
     color: #FF6363;
     margin-bottom: 0px;
     
   }
 
   .he{
-    font-size: 2vw;
+    font-size: 2.2vw;
     color: #FF6363;
     margin-bottom: 0px;
    
   }
 
   .const{
-    width: 65%;
+    width: 1000px;
     margin-left: auto;
     margin-right: auto;
   }
 
   .ctop{
     margin: auto;
+  }
+
+  .yoo{
+    font-size: 1.1vw;
+    width: 1000px;
   }
 
 
