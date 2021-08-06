@@ -2,16 +2,6 @@ img {
   width: 100%;
 }
 
-.h5, h5 {
-  text-align: center;
-  color: rgb(131,129,129);
-  font-family: sans-serif;
-  padding-top: 7%;
-  padding-bottom: 7%;
-  font-size: x-small;
-  font-weight: 100;
-}
-
 
 .hee{
   font-size: 2.5vw;
@@ -24,6 +14,18 @@ img {
   font-size: 4vw;
   color: #FF6363;
 }
+
+
+.h5, h5 {
+  text-align: center;
+  color: rgb(131,129,129);
+  font-family: sans-serif;
+  padding-top: 7%;
+  padding-bottom: 7%;
+  font-size: x-small;
+  font-weight: 100;
+}
+
 
 
 
