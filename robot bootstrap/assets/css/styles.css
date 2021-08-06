@@ -14,10 +14,12 @@
 }
 
 .h6, h6 {
-  font-family: serif;
   text-align: center;
   padding-left: 10%;
   padding-right: 10%;
+  font-size: 2vw;
+  font-family: sans-serif;
+  color: grey;
 }
 
 #para {
@@ -26,6 +28,8 @@
   font-family: serif;
   padding-top: 50px;
 }
+
+
 
 @media (min-width: 1200px) {
   #para {
@@ -239,11 +243,13 @@ a {
 
   .text-center {
     margin-top: 5%;
-    font-size: 1.2vw;
+    font-size: small;
     font-family: sans-serif;
     color: grey;
     clear: both;
   }
+  
+
 
 
 
@@ -279,6 +285,10 @@ a {
   .yoo{
     font-size: 1.1vw;
     width: 1000px;
+  }
+
+  .text-center{
+    font-size: 1.2vw;
   }
 
 
