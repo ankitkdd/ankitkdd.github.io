@@ -197,11 +197,12 @@
 	}
 	
 	#imageCircle{
-		align-self: center;
+		margin: auto;
+
 		
 		border-radius: 50%;
-		height: 21vh;
-		width: 21vh;
+		height: 63vh;
+		width: 63vh;
 		background-color: rgb(177, 177, 177);
 		background-image: url("images/image1.png");
 		background-size: cover;
