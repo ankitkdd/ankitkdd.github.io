@@ -210,6 +210,24 @@
 		background-size: cover;
 	
 	}
+
+	.mm{
+		display: inline;
+		float: left;
+		margin: auto;
+		padding-top: 28vh;
+		padding-left: 7vh;
+
+	}
+
+	#yoo{
+		font-size: 16px;
+		font-family: 'Roboto',  sans-serif;
+		
+		padding: 10px;
+		font-weight: 400;
+		color: #696969;
+	}
 	
 	
 	
@@ -329,23 +347,7 @@
 		margin-top: 10vh;
 
 	}
-	.mm{
-		display: inline;
-		float: left;
-		margin: auto;
-		padding-top: 28vh;
-		padding-left: 7vh;
-
-	}
-
-	#yoo{
-		font-size: 16px;
-		font-family: 'Roboto',  sans-serif;
-		
-		padding: 10px;
-		font-weight: 400;
-		color: #696969;
-	}
+	
 	  
 	  
 	}
