@@ -6,7 +6,7 @@
 .main2{
 	display: grid;
 	grid-template-columns: 50% 50%;
-	margin-top: 50px;
+	
 	height: 50vw;
 	
 }
