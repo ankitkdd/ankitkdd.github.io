@@ -36,10 +36,10 @@
 #menuit{
 	display: inline;
 	font-family: 'Roboto', sans-serif;
-	color: #696969;
+	color: #1E1E1E;
 	
 	font-size: 3vw;
-	font-weight: 400;
+	font-weight: 390;
   } 
 
 #textneche{
@@ -60,12 +60,72 @@
 
 }
 
-#proCircle{
+#proCircle1{
 	align-self: center;
 	border-radius: 50%;
 	width: 100%;
 	height: 100%;
-    background-image: url(images/image1.png) ;
+    background-image: url(images/image2.png) ;
+	background-color: white;
+	background-size: cover;
+	margin: auto;
+
+}
+
+#proCircle2{
+	align-self: center;
+	border-radius: 50%;
+	width: 100%;
+	height: 100%;
+    background-image: url(images/image3.png) ;
+	background-color: white;
+	background-size: cover;
+	margin: auto;
+
+}
+
+#proCircle3{
+	align-self: center;
+	border-radius: 50%;
+	width: 100%;
+	height: 100%;
+    background-image: url(images/image4.png) ;
+	background-color: white;
+	background-size: cover;
+	margin: auto;
+
+}
+
+#proCircle4{
+	align-self: center;
+	border-radius: 50%;
+	width: 100%;
+	height: 100%;
+    background-image: url(images/image5.png) ;
+	background-color: white;
+	background-size: cover;
+	margin: auto;
+
+}
+
+#proCircle5{
+	align-self: center;
+	border-radius: 50%;
+	width: 100%;
+	height: 100%;
+    background-image: url(images/image6.png) ;
+	background-color: white;
+	background-size: cover;
+	margin: auto;
+
+}
+
+#proCircle6{
+	align-self: center;
+	border-radius: 50%;
+	width: 100%;
+	height: 100%;
+    background-image: url(images/image7.png) ;
 	background-color: white;
 	background-size: cover;
 	margin: auto;
@@ -79,7 +139,7 @@
 
 	font-size: 4vw;
 	font-family: 'Roboto', sans-serif;
-	color: #696969;
+	color: #1E1E1E;
 	
 	text-align: center;
 	margin: 0;
@@ -191,9 +251,9 @@
 		justify-self: center;
 		align-self: center;
 		font-family: 'Roboto', sans-serif;
-		color: #696969;
+		color: #1E1E1E;
 	  font-size: 20px;
-	  font-weight: 400;
+	  font-weight: 360;
 	  color: black;
 
 	}
@@ -225,8 +285,8 @@
 		font-family: 'Roboto',  sans-serif;
 		
 		padding: 10px;
-		font-weight: 400;
-		color: #696969;
+		font-weight: 390;
+		color: #1E1E1E;
 	}
 	
 	
@@ -240,77 +300,77 @@
 		justify-content: left;
 		align-self: center;
 		font-family: 'Roboto', sans-serif;
-		color: #696969;
+		color: #1E1E1E;
 		
 	  font-size: 16px;
-	  font-weight: 400;
+	  font-weight: 390;
 		color: black;
 	}
 	
 	.bottom{
 		text-align: center;
 		font-family: 'Roboto', sans-serif;
-		color: #696969;
-		font-weight: 400;
+		color: #1E1E1E;
+		font-weight: 390;
 	}
 	
 	#menuitem2{
 		display: inline;
 		font-family: 'Roboto', sans-serif;
-		color: #696969;
+		color: #1E1E1E;
 		
-		font-size: 16px;
-		font-weight: 400;
+		font-size: 17px;
+		font-weight: 390;
 		margin: 15px;
 	  } 
 
 	  #menuitem3{
 		display: inline;
 		font-family: 'Roboto', sans-serif;
-		color: #696969;
+		color: #1E1E1E;
 		
-		font-size: 16px;
-		font-weight: 400;
+		font-size: 17px;
+		font-weight: 390;
 		margin: 15px;
 	  } 
 
 	  #menuitem4{
 		display: inline;
 		font-family: 'Roboto', sans-serif;
-		color: #696969;
+		color: #1E1E1E;
 		
-		font-size: 16px;
-		font-weight: 400;
+		font-size: 17px;
+		font-weight: 390;
 		margin: 15px;
 	  } 
 
 	  #menuitem5{
 		display: inline;
 		font-family: 'Roboto', sans-serif;
-		color: #696969;
+		color: #1E1E1E;
 		
-		font-size: 16px;
-		font-weight: 400;
+		font-size: 17px;
+		font-weight: 390;
 		margin: 15px;
 	  } 
 
 	  #menuitem6{
 		display: inline;
 		font-family: 'Roboto', sans-serif;
-		color: #696969;
+		color: #1E1E1E;
 		
-		font-size: 16px;
-		font-weight: 400;
+		font-size: 17px;
+		font-weight: 390;
 		margin: 15px;
 	  } 
 
 	  #menuitem7{
 		display: inline;
 		font-family: 'Roboto', sans-serif;
-		color: #696969;
+		color: #1E1E1E;
 		
-		font-size: 16px;
-		font-weight: 400;
+		font-size: 17px;
+		font-weight: 390;
 		margin: 15px;
 	  } 
 
@@ -344,7 +404,7 @@
 						font-weight: bold;
 						 }
     #ba{
-		margin-top: 10vh;
+		margin-top: 8vh;
 
 	}
 	
@@ -353,17 +413,5 @@
 	}
 
 
-	body {
-		-webkit-animation-delay: 0.1s;
-		-webkit-animation-name: fontfix;
-		-webkit-animation-duration: 0.1s;
-		-webkit-animation-iteration-count: 1;
-		-webkit-animation-timing-function: linear;
-	}
-	
-	@-webkit-keyframes fontfix {
-		from { opacity: 1; }
-		to   { opacity: 1; }
-	}
-	
+
 	
