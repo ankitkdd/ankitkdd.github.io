@@ -27,10 +27,14 @@
 
 #ttext{
 	display: block;
+	font-family:'Roboto', sans-serif;
+	font-size: 3vw;
 }
 
 #neche{
 	padding-top: 2%;
+	font-family:'Roboto', sans-serif;
+	font-size: 3vw;
   }
 
 #menuit{
@@ -38,13 +42,13 @@
 	font-family: 'Roboto', sans-serif;
 	color: #1E1E1E;
 	
-	font-size: 3vw;
+	font-size: 3.5vw;
 	font-weight: 390;
   } 
 
 #textneche{
 	height: auto;
-	width: 60vw;
+	width: 70vw;
 	margin: auto;
 }
 
