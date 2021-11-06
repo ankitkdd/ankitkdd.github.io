@@ -27,7 +27,7 @@ changeContent = (image) =>{
 
 	}
 	else if (image === "image6"){
-		about = "A Visual Book";
+		about = "Classroom redesign";
 		helper(image, about);
 		
 	}
