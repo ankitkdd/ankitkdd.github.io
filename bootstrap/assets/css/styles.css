@@ -6,6 +6,7 @@ img {
 .hee{
   font-size: 2.5vw;
   color: #d49347;
+  margin: 0px;
   
 }
 
@@ -18,17 +19,26 @@ a {
 .he{
   font-size: 4vw;
   color: #d49347;
+  margin: 0px;
 }
 
 
 .h5, h5 {
   text-align: center;
-  color: rgb(131,129,129);
+  color: rgb(100, 100, 100);
   font-family: sans-serif;
   padding-top: 7%;
   padding-bottom: 7%;
   font-size: x-small;
   font-weight: 100;
+}
+
+.gap{
+  margin-bottom: 5%;
+}
+
+.smalltext{
+  font-size: x-small;
 }
 
 
@@ -39,22 +49,31 @@ a {
   .h5, h5 {
     text-align: center;
     font-family: sans-serif;
-    color: rgb(165,162,162);
+    color: rgb(119, 119, 119);
     padding-top: 7%;
     padding-bottom: 7%;
     font-size: medium;
     font-weight: 100;
   }
 
+  .smalltext{
+    font-size: medium;
+    margin-bottom: 4%;
+    margin-top: 4%;
+  }
+  
+
   .hee{
     font-size: 1.3vw;
     color: #d49347;
+    margin: 0px;
     
   }
 
   .he{
     font-size: 2.2vw;
     color:#d49347;
+    margin: 0px;
    
   }
 
@@ -137,10 +156,6 @@ iframe {
 #small1 {
   width: 80%;
   padding-bottom: 5%;
-}
-
-p{
-   margin: 0%;
 }
 
 .h4, h4 {
