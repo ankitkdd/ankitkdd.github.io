@@ -13,12 +13,12 @@ changeContent = (image) =>{
 		about = "Aeromodelling";
 		helper(image, about);
 	}
-	else if (image === "image3"){
-		about = "3D Visualization";
+	else if (image === "image8"){
+		about = "Motion Control System";
 		helper(image, about);
 	}
 	else if (image === "image4"){
-		about = "Product Design";
+		about = "Collection of small projects";
 		helper(image, about);
 	}
 	else if (image === "image5"){
@@ -34,6 +34,12 @@ changeContent = (image) =>{
 	else if (image === "image7"){
 		about = "A Visual Montage";
 		helper(image, about);
+
 		
+	}
+
+	else if (image === "image3"){
+		about = "3D visualization";
+		helper(image, about);
 	}
 }
